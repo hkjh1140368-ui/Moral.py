@@ -1,0 +1,2 @@
+# Moral.py
+Boy
